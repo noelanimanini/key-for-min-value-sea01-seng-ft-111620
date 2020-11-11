@@ -15,5 +15,6 @@ name_hash.each do |key, value|
     min_key = key
     min_value = value
   end
+end 
      min_key
 end
